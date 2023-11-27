@@ -294,6 +294,7 @@
         .join("\n");
   
       alert(errorMessage);
+    }else{
     }
   }, false);
 
