@@ -303,11 +303,11 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: 1px;
 }
 
-#hero .social-links {
+#hero .social-linkss {
   margin-top: 30px;
 }
 
-#hero .social-links a {
+#hero .social-linkss a {
   font-size: 24px;
   display: inline-block;
   color: #45505b;
@@ -316,7 +316,7 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.3s;
 }
 
-#hero .social-links a:hover {
+#hero .social-linkss a:hover {
   color: #0563bb;
 }
 
@@ -1158,11 +1158,11 @@ section {
   margin: 0 0 40px 0;
 }
 
-#footer .social-links {
+#footer .social-linkss {
   margin: 0 0 40px 0;
 }
 
-#footer .social-links a {
+#footer .social-linkss a {
   font-size: 18px;
   display: inline-block;
   background: #0563bb;
@@ -1177,7 +1177,7 @@ section {
   transition: 0.3s;
 }
 
-#footer .social-links a:hover {
+#footer .social-linkss a:hover {
   background: #0678e3;
   color: #fff;
   text-decoration: none;
