@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aadhil.me/sitemap.xml
